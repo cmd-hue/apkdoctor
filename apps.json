@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Super Contraption",
+    "description": "Super Contraption is a physics sandbox construction game all about building machines.",
+    "note": "This file is too large, this will use the Internet Archive.",
+    "url": "https://archive.org/download/super-contraption-1-0145-multi-android/super-contraption-1-0145-multi-android.apk"
+  },
+  {
+    "title": "FNAF1",
+    "note": "This file is so large it will use the Internet Archive. It’s ~50 MB.",
+    "url": "https://archive.org/download/old-five-nights-at-freddys-android-ports/Five%20Nights%20at%20Freddys.apk"
+  },
+  {
+    "title": "Plants VS Zombies",
+    "note": "This file is large, so it will use the Internet Archive. It’s ~73.5 MB.",
+    "url": "https://archive.org/download/apkfiles.com-797-plants-vs.-zombies-v-1.2/apkfiles.com_797_Plants%20vs.%20Zombies%20v1.2.apk"
+  },
+  {
+    "title": "Talking Pierre",
+    "note": "Large file, uses Internet Archive. Everything unlocked.",
+    "url": "https://archive.org/download/apkfiles.com-797-plants-vs.-zombies-v-1.2/apkfiles.com_797_Plants%20vs.%20Zombies%20v1.2.apk"
+  },
+  {
+    "title": "Talking Tom 2 V2.0",
+    "note": "Large file, uses Internet Archive. ~33.5 MB.",
+    "url": "https://archive.org/download/talking-tom-cat-2-6/Talking%20Tom%20Cat%202-6.apk"
+  },
+  {
+    "title": "YouTube Flashback",
+    "note": "Classic Android layout revival. ~6 MB.",
+    "url": "https://cmd-hue.github.io/apkdoctor/ytflashback.apk"
+  },
+  {
+    "title": "Market Reborn",
+    "note": "Classic market revival. 73 KB. Crashes on newer phones and embedded site does not work on spectrum isp.",
+    "url": "https://cmd-hue.github.io/apkdoctor/Market_Reborn.apk"
+  }
+]
