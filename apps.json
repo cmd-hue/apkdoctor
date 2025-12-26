@@ -34,5 +34,30 @@
     "title": "Market Reborn",
     "note": "Classic market revival. 73 KB. Crashes on newer phones and embedded site does not work on spectrum isp.",
     "url": "https://cmd-hue.github.io/apkdoctor/Market_Reborn.apk"
+  },
+  {
+    "title": "Retrogram",
+    "note": "Large file, uses market.lyano.ovh. ~16 MB. also on the Market Reborn app.",
+    "url": "https://market.lyano.ovh/apk/com.instagram.android.apk"
+  },
+  {
+    "title": "Nickelodeon App (2013)",
+    "note": "Large file, uses the internet archive. ~24 MB.",
+    "url": "https://archive.org/download/r-1_20240130/com.nickonline.android.nickapp_2.0.8-75_minAPI19%28armeabi%2Carmeabi-v7a%2Cx86%29%28nodpi%29_apkmirror.com.apk"
+  },
+  {
+    "title": "Happy Meal McDonald\u2019s McPlay App (2013)",
+    "note": "Large file, uses the internet archive. ~45 MB.",
+    "url": "https://archive.org/download/com.happymeal.mcplay-3.6-free-www.apkshub.com/com.happymeal.mcplay-3.6-free-www.apkshub.com.apk"
+  },
+  {
+    "title": "Goldfish Movie Maker (2019)",
+    "note": "Make Your Movie!\nFinn & Friends are ready to make their big debut on the big screen and you get to be the director! Choose your cast and costumes, select different settings and background music, and record all the action and dialogue. Where the story goes is all up to you!\nReady to create your epic blockbuster? Lights, camera…action! Large file, uses the internet archive. ~96 MB.",
+    "url": "https://archive.org/download/com.pf.goldfishmoviemaker-1.2.0/com.pf.goldfishmoviemaker-1.2.0.apk"
+  },
+  {
+    "title": "Sand Blaster",
+    "note": "64 KB. A simple sand physics app.",
+    "url": "https://cmd-hue.github.io/apkdoctor/sandblaster.apk"
   }
 ]
