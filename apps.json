@@ -79,5 +79,10 @@
     "title": "Redbox Videri",
     "note": "the tv on top of most redbox kiosk and some of the advertisements that were on them. 5 MB.",
     "url": "https://cmd-hue.github.io/apkdoctor/redboxvideri.apk"
+  },
+  {
+    "title": "VidTape 3.5.5",
+    "note": "THIS IS NOT BIGGER THAN 10MB.",
+    "url": "https://cmd-hue.github.io/apkdoctor/vidtape.apk"
   }
 ]
