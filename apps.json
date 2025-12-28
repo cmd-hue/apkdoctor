@@ -84,5 +84,10 @@
     "title": "VidTape 3.5.5",
     "note": "THIS IS NOT BIGGER THAN 10MB.",
     "url": "https://cmd-hue.github.io/apkdoctor/vidtape.apk"
+  },
+  {
+    "title": "F-Droid 1.12.1",
+    "note": "An alternative app store focused on free and open source software",
+    "url": "https://f-droid.org/archive/org.fdroid.fdroid_1012051.apk"
   }
 ]
