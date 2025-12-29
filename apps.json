@@ -16,11 +16,6 @@
     "url": "https://archive.org/download/apkfiles.com-797-plants-vs.-zombies-v-1.2/apkfiles.com_797_Plants%20vs.%20Zombies%20v1.2.apk"
   },
   {
-    "title": "Talking Pierre",
-    "note": "Large file, uses Internet Archive. Everything unlocked.",
-    "url": "https://archive.org/download/apkfiles.com-797-plants-vs.-zombies-v-1.2/apkfiles.com_797_Plants%20vs.%20Zombies%20v1.2.apk"
-  },
-  {
     "title": "Talking Tom 2 V2.0",
     "note": "Large file, uses Internet Archive. ~33.5 MB.",
     "url": "https://archive.org/download/talking-tom-cat-2-6/Talking%20Tom%20Cat%202-6.apk"
@@ -92,7 +87,12 @@
   },
   {
     "title": "VidTape 4.0.8E",
-    "note": "ITS A RECORDER.",
+    "note": "ITS SMALLER THAN 10MB.",
     "url": "https://cmd-hue.github.io/apkdoctor/vidtape408e.apk"
+  },
+  {
+    "title": "APK Editor",
+    "note": "~5 MB.",
+    "url": "https://cmd-hue.github.io/apkdoctor/apkeditor.apk"
   }
 ]
